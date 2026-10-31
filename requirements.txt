@@ -1,0 +1,4 @@
+playwright>=1.40
+beautifulsoup4>=4.12
+gspread>=6.0
+pandas>=2.0

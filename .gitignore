@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+~$*
+*.db
+# never commit the google key
+credentials.json
+*-credentials.json
+service_account*.json
+output/error.png
